@@ -1,7 +1,5 @@
 # NING STUDIO
 
-**AI × Graphics × Interactive Technology**
-
 We build intelligent systems and immersive experiences—from 3D reconstruction and digital twins to Unreal Engine 5 applications, computer vision, and embodied AI tools.
 
 ---
@@ -15,7 +13,7 @@ We share:
 - Technical documentation and examples
 - Utilities that support AI and 3D workflows
 
-Client projects and commercial deliverables remain private. Public repositories focus on reusable, general-purpose technologies and educational resources.
+Public repositories focus on reusable, general-purpose technologies and educational resources.
 
 ---
 
@@ -23,12 +21,6 @@ Client projects and commercial deliverables remain private. Public repositories 
 
 - 🌐 Website: https://ning-studio.vercel.app/
 - 📧 Contact: ning-studio@foxmail.com
-
----
-
-## Featured Projects
-
-Coming soon.
 
 ---
 
